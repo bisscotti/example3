@@ -13,3 +13,5 @@ phoneBtn.onclick = () => {
     phoneResult.textContent = 'Некорректный номер телефона'
   }
 }
+
+console.log('hello')
